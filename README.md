@@ -19,7 +19,7 @@ Hello, my name is Marcos Orelio. I am MBA Strategic Information Technology Manag
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/marcosorelio/marcosorelio/refs/heads/main/assets/mongodb-svgrepo-com.svg" alt="MongoDB" height ="42px"/></a>&nbsp;
 <a href="https://nodejs.org/en" target="_blank"><img src="https://raw.githubusercontent.com/marcosorelio/marcosorelio/refs/heads/main/assets/node-svgrepo-com.svg" alt="Nodejs" height ="42px"></a>&nbsp;
 <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/marcosorelio/marcosorelio/refs/heads/main/assets/php2-svgrepo-com.svg" alt="PHP" height ="42px"></a>&nbsp;
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/marcosorelio/marcosorelio/refs/heads/main/assets/terminal-bash-svgrepo-com.svg" alt="Bash" height ="42px"></a>&nbsp;
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/marcosorelio/marcosorelio/refs/heads/main/assets/terminal-bash-white.svg" alt="Bash" height ="42px"></a>&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/marcosorelio/marcosorelio/refs/heads/main/assets/typescript-svgrepo-com.svg"  alt="TypeScript" height ="42px"></a>
 <br>
 ### Github Stats
